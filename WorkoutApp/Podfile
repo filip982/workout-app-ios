@@ -1,0 +1,46 @@
+# Project Configuration
+# workspace 'WorkoutApp.xcworkspace'
+platform :ios, '10.0'
+
+## Settings
+inhibit_all_warnings!
+use_frameworks!
+
+pod 'PromisesSwift'
+
+def ui_layer_pods
+  pod 'SDWebImage'
+  pod 'SDWebImage/WebP'
+  pod 'SDWebImage/GIF'
+  pod 'FLAnimatedImage'
+  pod 'UICountingLabel'
+  pod 'YoutubePlayer-in-WKWebView'
+  pod 'FBSDKLoginKit'
+end
+
+def data_access_layer_pods
+  pod 'SwiftyJSON', '~> 5.0'
+  pod 'Cache'
+  pod 'Firebase/Firestore'
+  pod 'FirebaseFirestoreSwift'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Auth'
+end
+
+abstract_target 'Fitness_Abstract' do
+  project 'WorkoutApp.xcodeproj'
+
+  target 'WorkoutApp' do
+  end
+  
+  target 'WorkoutsFramework' do
+    ui_layer_pods
+    # Data Access dependencies shouldn't be here - temp solution
+    data_access_layer_pods
+  end
+  
+  target 'DataSourceFramework' do
+    data_access_layer_pods
+  end
+  
+end
