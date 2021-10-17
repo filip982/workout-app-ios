@@ -1,9 +1,28 @@
 # Workout App - iOS version
+## Important Notice
+This app is work in progress 🚧. My wish is to adapt it as a personal showcase app. I think this is a great candidate as it shows how code could be complicated and far away from simple and ideal examples that we see online. Some of the specs:
+- This app works only in offline mode using MockData
+- There are a lot of Firebase's code that is not used because I shut down the instance
+
+## TO DO list
+ 
+ - [ ] server-side Swift
+ - [ ] setup database
+ - [ ] setup API
+ - [ ] remove firebase code
+ - [ ] setup new api on mobile client
+ - [ ] update mock files and tests
+ - [ ] use Core Data as offline DB
+ - [ ] setup sync model
+ - [ ] make integration tests
+
+NOTE: Down bellow was initial proposal to the client. I will keep as a history. Also, it has some nice explanation of current architecture.
+
 ## Description
 Just a simple Workout app using Firebase as a back-end service. App shows a list of possible workout sessions, from which user should choose one. Every workout session consist of multiple exercises in a certain order. Every exercise has a detail view with YouTube link. 
 
 ## Goal
-Trying to put best architecture approach with all leasons learned through many years put in one production project, backup by server system
+Trying to put the best architecture approach with all leasons learned through many years put in one production project, backup by server system
 ## Future plans
 This app doesn't have any design it's just my way of arranging elements (developer design). Maybe in the future I will invest more time and make it more appealing with animation and transitions. 
 

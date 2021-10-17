@@ -69,6 +69,7 @@
 		C4250B4525ECC1430049E364 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4250B4425ECC1430049E364 /* AppCoordinator.swift */; };
 		C4830395271C7F6300FDD08C /* MockData in Resources */ = {isa = PBXBuildFile; fileRef = C4830394271C7F6200FDD08C /* MockData */; };
 		C4830399271C805F00FDD08C /* MockData in Resources */ = {isa = PBXBuildFile; fileRef = C4830398271C805F00FDD08C /* MockData */; };
+		C483039D271C873C00FDD08C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C483039C271C873C00FDD08C /* README.md */; };
 		CB29288FC9C77EA0916E764A /* Pods_Fitness_Abstract_WorkoutsFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 36644F455B5E9E3022C22BAE /* Pods_Fitness_Abstract_WorkoutsFramework.framework */; };
 		E7A7F4DF4249767338C85528 /* Pods_Fitness_Abstract_WorkoutApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB9C8E61E2E406905CA0C8F2 /* Pods_Fitness_Abstract_WorkoutApp.framework */; };
 /* End PBXBuildFile section */
@@ -195,6 +196,7 @@
 		C4250B4425ECC1430049E364 /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
 		C4830394271C7F6200FDD08C /* MockData */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MockData; sourceTree = SOURCE_ROOT; };
 		C4830398271C805F00FDD08C /* MockData */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MockData; sourceTree = SOURCE_ROOT; };
+		C483039C271C873C00FDD08C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +256,7 @@
 		C425083225ECB32C0049E364 = {
 			isa = PBXGroup;
 			children = (
+				C483039C271C873C00FDD08C /* README.md */,
 				C4250B4225ECC04D0049E364 /* Prototype.playground */,
 				C425083D25ECB32C0049E364 /* WorkoutApp */,
 				C425099225ECBC360049E364 /* DataSourceFramework */,
@@ -594,6 +597,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C483039D271C873C00FDD08C /* README.md in Resources */,
 				C425084B25ECB32C0049E364 /* LaunchScreen.storyboard in Resources */,
 				C425084825ECB32C0049E364 /* Assets.xcassets in Resources */,
 			);
