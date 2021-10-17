@@ -16,7 +16,7 @@ public class DataService: DataServiceProtocol {
     
     // MARK: - Initialization
     
-    public static let shared = DataService()
+    public static let shared = MockDataService()
     private var cacheStorage: HybridStorage<Data>!
     
     private init() {

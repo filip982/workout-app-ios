@@ -96,13 +96,14 @@ extension CategoryViewController: UICollectionViewDataSource, UICollectionViewDe
     
     public func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: CategoryCell.reuseIdentifier, for: indexPath) as! CategoryCell
-        var category = defaultCategoryBarData[indexPath.row]
-        cell.configure(with: category)
-        cell.didSelectHandler = { button in
-            collectionView.scrollToItem(at: indexPath, at: .centeredHorizontally, animated: true)
-            self.deselectPreviousCategory(on: collectionView, withDataSource: self.defaultCategoryBarData)
-            category.selected = true
+        if var category = defaultCategoryBarData[safe: indexPath.row] {
             cell.configure(with: category)
+            cell.didSelectHandler = { button in
+                collectionView.scrollToItem(at: indexPath, at: .centeredHorizontally, animated: true)
+                self.deselectPreviousCategory(on: collectionView, withDataSource: self.defaultCategoryBarData)
+                category.selected = true
+                cell.configure(with: category)
+            }
         }
         return cell
     }

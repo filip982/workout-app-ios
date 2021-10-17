@@ -27,7 +27,7 @@ public class MockDataService: DataServiceProtocol {
     
     public static let shared = MockDataService()
     
-    private init() {
+    public init() {
         // custom init
     }
     

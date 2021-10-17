@@ -1,0 +1,2883 @@
+{
+  "version": 8,
+  "data": [
+    {
+      "id": 101,
+      "origin": "TEST WORKOUT",
+      "name": "TEST WORKOUT",
+      "level": "Beginner",
+      "time": 12,
+      "calorie": 58,
+      "exercises": [
+        {
+          "id": 156,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 328,
+          "getReady": 10,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 32,
+          "getReady": 5,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 129,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 328,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 32,
+          "getReady": 0,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 50,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 125,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 331,
+          "getReady": 0,
+          "timeSpan": 20,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 332,
+          "getReady": 0,
+          "timeSpan": 20,
+          "movement": "Regular",
+          "switchSide": true
+        },
+        {
+          "id": 316,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        }
+      ],
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "no equipment",
+        "high intensity"
+      ],
+      "type": "Normal",
+      "phoneWebp": "easy_hiit_phone.png",
+      "phoneMd5": "",
+      "padWebp": "easy_hiit_pad.png",
+      "padMd5": "",
+      "brief": "This is a test workout to test different combinations of exercise and get ready timespans.",
+      "order": 1
+    },
+    {
+      "id": 307,
+      "origin": "WORKOUT FOR TEST",
+      "name": "WORKOUT FOR TEST",
+      "level": "Beginner",
+      "time": 12,
+      "calorie": 58,
+      "exercises": [
+        {
+          "id": 156,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 90,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 328,
+          "getReady": 10,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 287,
+          "getReady": 10,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 32,
+          "getReady": 5,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 133,
+          "getReady": 5,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 129,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 328,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 287,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 32,
+          "getReady": 0,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 133,
+          "getReady": 0,
+          "timeSpan": 10,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 129,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 87,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 316,
+          "getReady": 15,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 50,
+          "getReady": 30,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 125,
+          "getReady": 30,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 129,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 87,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 316,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 50,
+          "getReady": 10,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 125,
+          "getReady": 0,
+          "timeSpan": 30,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 331,
+          "getReady": 0,
+          "timeSpan": 20,
+          "movement": "Regular",
+          "switchSide": false
+        },
+        {
+          "id": 332,
+          "getReady": 0,
+          "timeSpan": 20,
+          "movement": "Regular",
+          "switchSide": true
+        }
+      ],
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "no equipment",
+        "high intensity"
+      ],
+      "type": "Normal",
+      "phoneWebp": "easy_hiit_phone.png",
+      "phoneMd5": "",
+      "padWebp": "easy_hiit_pad.png",
+      "padMd5": "",
+      "brief": "This is a test workout to test different combinations of exercise and get ready timespans.",
+      "order": 1
+    },
+    {
+      "origin": "7M TABATA",
+      "name": "7M TABATA",
+      "padWebp": "7m_hiit_pad.webp",
+      "level": "Intermediate",
+      "padMd5": "qEH6FQUDYybEZ+p0ZrPcNA==",
+      "phoneMd5": "QhEJdvzseFgd0RNv0IIGlw==",
+      "brief": "A tabata inspired workout that includes a warmup and cooldown. Although short, this workout is intense. Make sure you are physically fit before attempting.",
+      "order": 1,
+      "keywords": [
+        "7 minute",
+        "short",
+        "quick",
+        "7m",
+        "cardio",
+        "wrist safe",
+        "no floor",
+        "standing only",
+        "HIIT"
+      ],
+      "phoneWebp": "7m_hiit_phone.webp",
+      "time": 8,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 78,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 83,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 120,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 124,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 122,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 120,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 124,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 122,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 104,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 103,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 46,
+      "type": "Normal",
+      "id": 30
+    },
+    {
+      "origin": "BURN 100",
+      "name": "BURN 100",
+      "padWebp": "burn_100_pad.webp",
+      "level": "Intermediate",
+      "padMd5": "ZP0cOkXTHK9l6D4IyyZfIg==",
+      "phoneMd5": "91LJLerBQl7CzDsqCOE6cQ==",
+      "brief": "A high intensity workout that will help you burn 100 calories in just 15 minutes.",
+      "order": 2,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "full body"
+      ],
+      "phoneWebp": "burn_100_phone.webp",
+      "time": 16,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 156,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 95,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 158,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 124,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 122,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 105,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 125,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 167,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 105,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 77,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 34,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 76,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 96,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 47,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 53,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 45,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 43,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 100,
+      "type": "Normal",
+      "id": 99
+    },
+    {
+      "origin": "EASY HIIT",
+      "name": "EASY HIIT",
+      "padWebp": "easy_hiit_pad.webp",
+      "level": "Beginner",
+      "padMd5": "MqvuNmHBw4b0CnJgUukdiQ==",
+      "phoneMd5": "jWUHh/osORBYuHBuk/qN1Q==",
+      "brief": "A longer HIIT workout with more rest between intervals for those that are still getting used to going all out. Easier to perform but just as sweat inducing.",
+      "order": 3,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "high intensity"
+      ],
+      "phoneWebp": "easy_hiit_phone.webp",
+      "time": 20,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 156,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 328,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 287,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 32,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 133,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 328,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 287,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 32,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 133,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 316,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 50,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 125,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 316,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 50,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 125,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 331,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 332,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 72,
+      "type": "Normal",
+      "id": 171
+    },
+    {
+      "origin": "FAT BLASTING HIIT",
+      "name": "FAT BLASTING HIIT",
+      "padWebp": "fat_blasting_hiit_pad.webp",
+      "level": "Intermediate",
+      "padMd5": "x2VEyJou9UCsmss2Ct3lYw==",
+      "phoneMd5": "WropWnQzNqQpyxERr14I0A==",
+      "brief": "Turn the fat burn up a level with this 10 minute high intensity workout that will really get you moving.",
+      "order": 4,
+      "keywords": [
+        "fat loss",
+        "fat burning",
+        "weight loss",
+        "lose weight",
+        "bikini body",
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "high intensity"
+      ],
+      "phoneWebp": "fat_blasting_hiit_phone.webp",
+      "time": 10,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 156,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 338,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 338,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 343,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 343,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 34,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 34,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 60
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 337,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 337,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 117,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 117,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 315,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 315,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 104,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 103,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 59,
+      "type": "Normal",
+      "id": 174
+    },
+    {
+      "origin": "FULL BODY HIIT",
+      "name": "FULL BODY HIIT",
+      "padWebp": "full_body_hiit_pad.webp",
+      "level": "Beginner",
+      "padMd5": "3xlz9UrTuw/22NC2wt3J4w==",
+      "phoneMd5": "PkkRWfSreTb42+EkSS/5ug==",
+      "brief": "Nothing beats a full body HIIT workout. 4 circuits of upper and lower body movements with ample rest in between. Perfect for those new to HIIT.",
+      "order": 5,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "high intensity"
+      ],
+      "phoneWebp": "full_body_hiit_phone.webp",
+      "time": 19,
+      "exercises": [
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 330,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 106,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 303,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 60
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 330,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 106,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 303,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 60
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 112,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 48,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 60
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 112,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 48,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 30,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 71,
+      "type": "Normal",
+      "id": 175
+    },
+    {
+      "origin": "GET PUMPED",
+      "name": "GET PUMPED",
+      "padWebp": "get_pumped_pad.webp",
+      "level": "Advanced",
+      "padMd5": "Legroc8peL51aQXxypLrCQ==",
+      "phoneMd5": "8rR7ABT8NpnpP4FWW3w46A==",
+      "brief": "A longer routine that will hit your body hard. Help builds both strength and endurance.",
+      "order": 6,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "full body"
+      ],
+      "phoneWebp": "get_pumped_phone.webp",
+      "time": 25,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 162,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 163,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 99,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 100,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 89,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 113,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 32,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 53,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 42,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 89,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 113,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 32,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 53,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 42,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 89,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 113,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 32,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 53,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 42,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 93,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 92,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 94,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 125,
+      "type": "Normal",
+      "id": 129
+    },
+    {
+      "origin": "HARD CORE",
+      "name": "HARD CORE",
+      "padWebp": "hard_core_pad.webp",
+      "level": "Advanced",
+      "padMd5": "z2/6n8JMwaTuxQZa8o8TAw==",
+      "phoneMd5": "FJmKs3Q57etUCLqOU7FmbA==",
+      "brief": "Get rock hard abs with this intense high intensity workout.",
+      "order": 7,
+      "keywords": [
+        "abs",
+        "core",
+        "abdominals",
+        "v-cut",
+        "six pack",
+        "6 pack",
+        "crunches",
+        "waist",
+        "stomach",
+        "belly",
+        "Abs & Core",
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "Abs & Core"
+      ],
+      "phoneWebp": "hard_core_phone.webp",
+      "time": 15,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 83,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 164,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 106,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 63,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 65,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 58,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 59,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 51,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 47,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 37,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 49,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 91,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 46,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 48,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 58,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 59,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 47,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 42,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 161,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 22,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 54,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 78,
+      "type": "Normal",
+      "id": 131
+    },
+    {
+      "origin": "HIIT 10",
+      "name": "HIIT 10",
+      "padWebp": "hiit_10_pad.webp",
+      "level": "Intermediate",
+      "padMd5": "al8IZDiXttXJT9JglTsJZg==",
+      "phoneMd5": "8O90ROENox+lDuH6+zXTXw==",
+      "brief": "A 10 minute high intensity workout that will make you sweat. Highly efficient and effective for losing weight.",
+      "order": 8,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "cardio",
+        "wrist safe"
+      ],
+      "phoneWebp": "hiit_10_phone.webp",
+      "time": 11,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 97,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 79,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 96,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 95,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 34,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 97,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 79,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 96,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 95,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 34,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 93,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 92,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 84,
+      "type": "Normal",
+      "id": 9
+    },
+    {
+      "origin": "HIIT 15",
+      "name": "HIIT 15",
+      "padWebp": "hiit_15_pad.webp",
+      "level": "Advanced",
+      "padMd5": "awVqY8RvGa+0TfjPzGITJg==",
+      "phoneMd5": "Jj+JoseIdiQeroO2/5Lk9A==",
+      "brief": "Let's see what we can accomplish with this heart pumping, calorie burning, 15-minutes HIIT workout.",
+      "order": 9,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "cardio",
+        "warning"
+      ],
+      "phoneWebp": "hiit_15_phone.webp",
+      "time": 15,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 120,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 61,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 124,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 122,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 120,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 61,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 124,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 122,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 77,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 48,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 77,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 48,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 100,
+      "type": "Normal",
+      "id": 160
+    },
+    {
+      "origin": "HIIT 20",
+      "name": "HIIT 20",
+      "padWebp": "hiit_20_pad.webp",
+      "level": "Advanced",
+      "padMd5": "6AS8e9oEAhB0iHHHOPxaYg==",
+      "phoneMd5": "Cd8Rr2zNWwdubq6HuMMTlg==",
+      "brief": "Our most intense workout. A tough workout that will get your blood pumping. Not for beginners!",
+      "order": 10,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "cardio",
+        "Full Body",
+        "warning"
+      ],
+      "phoneWebp": "hiit_20_phone.webp",
+      "time": 21,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 97,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 99,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 13,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 121,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 109,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 28,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 29,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 85,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 85,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 85,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 85,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 88,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 85,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 84,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 83,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 99,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 93,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 92,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 43,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 94,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 131,
+      "type": "Normal",
+      "id": 11
+    },
+    {
+      "origin": "HIIT LOWER BODY",
+      "name": "HIIT LOWER BODY",
+      "padWebp": "hiit_lower_body_pad.webp",
+      "level": "Intermediate",
+      "padMd5": "ccNXKftndIUalduGz2cdAA==",
+      "phoneMd5": "FlvjmZmBDuigbmjsBQJcQg==",
+      "brief": "This is a quick burn legs workout. It will help melt more fat away in less time.",
+      "order": 11,
+      "keywords": [
+        "legs",
+        "thighs",
+        "lap",
+        "hamstrings",
+        "calves",
+        "Legs & Thighs",
+        "cardio",
+        "HIIT",
+        "Legs & Thighs"
+      ],
+      "phoneWebp": "hiit_lower_body_phone.webp",
+      "time": 10,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 136,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 100,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 106,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 105,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 98,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 13,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 79,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 95,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 13,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 104,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 103,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 93,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 92,
+          "timeSpan": 30
+        }
+      ],
+      "calorie": 51,
+      "type": "Normal",
+      "id": 214
+    },
+    {
+      "origin": "HIIT & ABS",
+      "name": "HIIT & ABS",
+      "padWebp": "hiit_&_abs_pad.webp",
+      "level": "Beginner",
+      "padMd5": "uRQ2o1o4QU2P1wKDEo9JWw==",
+      "phoneMd5": "vKjHJzNUCU1MJ1dCCouzSg==",
+      "brief": "This high intensity standing workout will work your abs hard. An ab workout with no seated movements? Yes indeed!",
+      "order": 12,
+      "keywords": [
+        "abs",
+        "core",
+        "abdominals",
+        "v-cut",
+        "six pack",
+        "6 pack",
+        "crunches",
+        "waist",
+        "stomach",
+        "belly",
+        "Abs & Core",
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio"
+      ],
+      "phoneWebp": "hiit_&_abs_phone.webp",
+      "time": 5,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 83,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 338,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 170,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 140,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 139,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 245,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 371,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 170,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 317,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 245,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 333,
+          "timeSpan": 10
+        },
+        {
+          "getReady": 10,
+          "switchSide": true,
+          "movement": "Regular",
+          "id": 334,
+          "timeSpan": 10
+        }
+      ],
+      "calorie": 26,
+      "type": "Normal",
+      "id": 245
+    },
+    {
+      "origin": "TABATA BODY",
+      "name": "TABATA BODY",
+      "padWebp": "tabata_body_pad.webp",
+      "level": "Advanced",
+      "padMd5": "QS6aU9L/7L3ip+NibZH6pg==",
+      "phoneMd5": "89yzRNgMpMT2sZxIJpaqvA==",
+      "brief": "The most efficient way to workout. Burn 15 calories a minute and work the whole body in just 4 minutes!",
+      "order": 13,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "HIIT"
+      ],
+      "phoneWebp": "tabata_body_phone.webp",
+      "time": 4,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 33,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 115,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 72,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 127,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 90,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 117,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 74,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 53,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 29,
+      "type": "Normal",
+      "id": 10
+    },
+    {
+      "origin": "TABATA BURPEES",
+      "name": "TABATA BURPEES",
+      "padWebp": "tabata_burpees_pad.webp",
+      "level": "Advanced",
+      "padMd5": "VB2IFIYtsRomZRophNwh1w==",
+      "phoneMd5": "cb2QJ/ZMjvfE34836yDA1Q==",
+      "brief": "This is a 4 minute Tabata workout where all you do is burpees! Excruciatingly fun... for some people!",
+      "order": 14,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio"
+      ],
+      "phoneWebp": "tabata_burpees_phone.webp",
+      "time": 4,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 40,
+      "type": "Normal",
+      "id": 161
+    },
+    {
+      "origin": "TOTAL HIIT",
+      "name": "TOTAL HIIT",
+      "padWebp": "total_hiit_pad.webp",
+      "level": "Advanced",
+      "padMd5": "Mv5m1ik1jjzqEO18+Q7+bA==",
+      "phoneMd5": "zutBi+b0meOVukMhfv1ZfQ==",
+      "brief": "Maximize your fat burn with this 10-minute ultra high intensity interval workout. You really got to bring it for this one. Not for the faint of heart!",
+      "order": 15,
+      "keywords": [
+        "high intensity",
+        "HIIT",
+        "strength",
+        "burning",
+        "cardio",
+        "high intensity",
+        "warning"
+      ],
+      "phoneWebp": "total_hiit_phone.webp",
+      "time": 10,
+      "exercises": [
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 47,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 47,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 46,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 46,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 50,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 50,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 329,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 329,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 117,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 117,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 45,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 45,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 0,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 129,
+          "timeSpan": 30
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 87,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 336,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 336,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 328,
+          "timeSpan": 20
+        },
+        {
+          "getReady": 10,
+          "switchSide": false,
+          "movement": "Regular",
+          "id": 328,
+          "timeSpan": 20
+        }
+      ],
+      "calorie": 57,
+      "type": "Normal",
+      "id": 189
+    }
+  ]
+}
