@@ -219,16 +219,6 @@ PODS:
     - BoringSSL-GRPC/Interface (= 0.0.7)
   - BoringSSL-GRPC/Interface (0.0.7)
   - Cache (5.3.0)
-  - FBSDKCoreKit (9.0.1):
-    - FBSDKCoreKit/Basics (= 9.0.1)
-    - FBSDKCoreKit/Core (= 9.0.1)
-  - FBSDKCoreKit/Basics (9.0.1)
-  - FBSDKCoreKit/Core (9.0.1):
-    - FBSDKCoreKit/Basics
-  - FBSDKLoginKit (9.0.1):
-    - FBSDKLoginKit/Login (= 9.0.1)
-  - FBSDKLoginKit/Login (9.0.1):
-    - FBSDKCoreKit (~> 9.0.1)
   - Firebase/Auth (6.34.0):
     - Firebase/CoreOnly
     - FirebaseAuth (~> 6.9.2)
@@ -347,7 +337,6 @@ PODS:
 
 DEPENDENCIES:
   - Cache
-  - FBSDKLoginKit
   - Firebase/Auth
   - Firebase/Firestore
   - Firebase/Storage
@@ -366,8 +355,6 @@ SPEC REPOS:
     - abseil
     - BoringSSL-GRPC
     - Cache
-    - FBSDKCoreKit
-    - FBSDKLoginKit
     - Firebase
     - FirebaseAuth
     - FirebaseCore
@@ -395,8 +382,6 @@ SPEC CHECKSUMS:
   abseil: 6c8eb7892aefa08d929b39f9bb108e5367e3228f
   BoringSSL-GRPC: 8edf627ee524575e2f8d19d56f068b448eea3879
   Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
-  FBSDKCoreKit: fada1a6a0076724678993ff05a633848765ff18c
-  FBSDKLoginKit: d5ffe6d808897019ccf16feb6f0a7ab260bc5cd6
   Firebase: c23a36d9e4cdf7877dfcba8dd0c58add66358999
   FirebaseAuth: c92d49ada7948d1a23466e3db17bc4c2039dddc3
   FirebaseCore: d3a978a3cfa3240bf7e4ba7d137fdf5b22b628ec
@@ -420,6 +405,6 @@ SPEC CHECKSUMS:
   UICountingLabel: faf890b505d96312e324a86718f031fafffb0ccb
   YoutubePlayer-in-WKWebView: cfbf46da51d7370662a695a8f351e5fa1d3e1008
 
-PODFILE CHECKSUM: 368249beec9487699070170bfc380ff351d0a760
+PODFILE CHECKSUM: f3577ee3794dd83e84ab2d09b5f4d99984d673cf
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

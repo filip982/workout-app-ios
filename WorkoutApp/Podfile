@@ -15,7 +15,6 @@ def ui_layer_pods
   pod 'FLAnimatedImage'
   pod 'UICountingLabel'
   pod 'YoutubePlayer-in-WKWebView'
-  pod 'FBSDKLoginKit'
 end
 
 def data_access_layer_pods
